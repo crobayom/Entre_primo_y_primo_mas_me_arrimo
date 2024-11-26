@@ -71,3 +71,6 @@ graph TD;
 20{"¿ e es menor o igual que n ?"} --> i[no] --> 21(Fin);
 
 ```
+
+## Agradezco enormemente el tiempo tomado leyendo el trabajo, me costo mucho tiempo hacer el diagrama en markdown
+# Gracias
