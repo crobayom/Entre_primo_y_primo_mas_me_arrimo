@@ -29,7 +29,7 @@ si n==2
 Escribir ("2");
 Para (m<-2;m<=n;m++){
 Para (i<-2;i<√(n)+1;i++){
-Si modulo (m,i) !=0
+Si modulo (m,i) ==0
 d:=d+1;
 }
 si d==0
